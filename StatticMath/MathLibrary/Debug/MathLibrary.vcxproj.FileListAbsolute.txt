@@ -1,0 +1,2 @@
+C:\Users\AMK30\Desktop\Zap753_RafaelFlores\StatticMath\Debug\MathLibrary.lib.lastcodeanalysissucceeded
+C:\Users\AMK30\Desktop\Zap753_RafaelFlores\StatticMath\MathLibrary\Debug\NativeCodeAnalysis.read.1.tlog
