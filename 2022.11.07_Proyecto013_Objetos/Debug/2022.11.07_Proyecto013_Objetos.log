@@ -1,0 +1,5 @@
+﻿  2022.11.07_Proyecto013_Objetos.cpp
+C:\Users\AMK30\Documents\Zap753_RafaelFlores\2022.11.07_Proyecto013_Objetos\2022.11.07_Proyecto013_Objetos.cpp(16,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\AMK30\Documents\Zap753_RafaelFlores\2022.11.07_Proyecto013_Objetos\2022.11.07_Proyecto013_Objetos.cpp(18,22): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\AMK30\Documents\Zap753_RafaelFlores\2022.11.07_Proyecto013_Objetos\2022.11.07_Proyecto013_Objetos.cpp(24,20): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  2022.11.07_Proyecto013_Objetos.vcxproj -> C:\Users\AMK30\Documents\Zap753_RafaelFlores\2022.11.07_Proyecto013_Objetos\Debug\2022.11.07_Proyecto013_Objetos.exe

@@ -1,0 +1,13 @@
+﻿  2022.18.10_Proyecto007_Pokemon.cpp
+C:\Users\AMK30\Documents\Zap753_RafaelFlores\2022.18.10_Proyecto007_Pokemon\2022.18.10_Proyecto007_Pokemon.cpp(23,39): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\AMK30\Documents\Zap753_RafaelFlores\2022.18.10_Proyecto007_Pokemon\2022.18.10_Proyecto007_Pokemon.cpp(24,37): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\AMK30\Documents\Zap753_RafaelFlores\2022.18.10_Proyecto007_Pokemon\2022.18.10_Proyecto007_Pokemon.cpp(28,37): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\AMK30\Documents\Zap753_RafaelFlores\2022.18.10_Proyecto007_Pokemon\2022.18.10_Proyecto007_Pokemon.cpp(31,39): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\AMK30\Documents\Zap753_RafaelFlores\2022.18.10_Proyecto007_Pokemon\2022.18.10_Proyecto007_Pokemon.cpp(32,37): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\AMK30\Documents\Zap753_RafaelFlores\2022.18.10_Proyecto007_Pokemon\2022.18.10_Proyecto007_Pokemon.cpp(38,23): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\AMK30\Documents\Zap753_RafaelFlores\2022.18.10_Proyecto007_Pokemon\2022.18.10_Proyecto007_Pokemon.cpp(54,23): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\AMK30\Documents\Zap753_RafaelFlores\2022.18.10_Proyecto007_Pokemon\2022.18.10_Proyecto007_Pokemon.cpp(57,37): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\AMK30\Documents\Zap753_RafaelFlores\2022.18.10_Proyecto007_Pokemon\2022.18.10_Proyecto007_Pokemon.cpp(58,35): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\AMK30\Documents\Zap753_RafaelFlores\2022.18.10_Proyecto007_Pokemon\2022.18.10_Proyecto007_Pokemon.cpp(68,35): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\AMK30\Documents\Zap753_RafaelFlores\2022.18.10_Proyecto007_Pokemon\2022.18.10_Proyecto007_Pokemon.cpp(75,37): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  2022.18.10_Proyecto007_Pokemon.vcxproj -> C:\Users\AMK30\Documents\Zap753_RafaelFlores\2022.18.10_Proyecto007_Pokemon\Debug\2022.18.10_Proyecto007_Pokemon.exe
