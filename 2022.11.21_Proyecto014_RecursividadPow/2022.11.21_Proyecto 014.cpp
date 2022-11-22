@@ -7,10 +7,9 @@
 
 void pow(int n1, int n2, int b) {
     int r = n1;
-    if (n2 != 0) {
-    pow(b * n1, n2 - 1, b);
-    std::cout << r << std::endl;
-}
+    if (n2 == 1) {
+        std::cout << r << std::endl;
+    }else { pow(b * n1, n2 - 1, b); }
 }
 
 int main(){
