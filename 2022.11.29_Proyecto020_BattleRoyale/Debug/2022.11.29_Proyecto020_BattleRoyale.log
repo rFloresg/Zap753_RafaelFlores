@@ -1,0 +1,3 @@
+﻿  2022.11.29_Proyecto020_BattleRoyale.cpp
+C:\Users\rafax\Documents\GitHub\Zap753_RafaelFlores\2022.11.29_Proyecto020_BattleRoyale\2022.11.29_Proyecto020_BattleRoyale.cpp(38,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  2022.11.29_Proyecto020_BattleRoyale.vcxproj -> C:\Users\rafax\Documents\GitHub\Zap753_RafaelFlores\2022.11.29_Proyecto020_BattleRoyale\Debug\2022.11.29_Proyecto020_BattleRoyale.exe
