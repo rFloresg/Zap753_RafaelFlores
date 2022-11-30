@@ -1,4 +1,5 @@
 // HelloWindowsDesktop.cpp
+// Rafael Flores
 // compile with: /D_UNICODE /DUNICODE /DWIN32 /D_WINDOWS /c
 
 #include <windows.h>
@@ -7,17 +8,9 @@
 #include <tchar.h>
 
 
-
-
 static TCHAR szWindowClass[] = _T("DesktopApp");
-
-
 static TCHAR szTitle[] = _T("Windows Desktop Guided Tour Application");
-
-
 HINSTANCE hInst;
-
-
 LRESULT CALLBACK WndProc(HWND, UINT, WPARAM, LPARAM);
 
 int WINAPI WinMain(
@@ -78,12 +71,12 @@ int WINAPI WinMain(
         return 1;
     }
 
-  
+
     ShowWindow(hWnd,
         nCmdShow);
     UpdateWindow(hWnd);
 
-  
+
     MSG msg;
     while (GetMessage(&msg, NULL, 0, 0))
     {

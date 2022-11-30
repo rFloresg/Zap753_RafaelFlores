@@ -1,2 +1,2 @@
 ﻿  HelloWindowsDesktopApp.cpp
-  DesktopApp.vcxproj -> C:\Users\rafax\Documents\GitHub\Zap753_RafaelFlores\DesktopApp\Debug\DesktopApp.exe
+C:\Users\rafax\Documents\GitHub\Zap753_RafaelFlores\DesktopApp\HelloWindowsDesktopApp.cpp(25,5): error C2146: error de sintaxis: falta ';' delante del identificador 'wcex'
